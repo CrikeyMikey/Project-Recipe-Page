@@ -11,7 +11,7 @@ body {
 }
 
 ul {
-    padding: 0px;
+    margin-left: 10px;
 }
 
 img {
@@ -62,5 +62,38 @@ a {
     background-color: black;
     color: white;
 }
+
+.bodydiv {
+    background-color: #EFEDED;
+    max-width: 750px;
+    min-width: 400px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.foodimg {
+    max-width: 225px;
+    max-height: 225px;
+    border: 2px solid lightgray;
+    
+}
+
+.description {
+    text-align: left;
+}
+
+.page1 {
+    display: flex;
+    justify-content: center;
+}
+
+.ingredients {
+    font-weight: bold;
+}
+
+
+
+
+
 
 
