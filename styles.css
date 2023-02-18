@@ -1,17 +1,66 @@
 /* styles.css */
-
-#Odinh1 {
-    color: darkgoldenrod;
+html {
+    height: 100%;
+    width: 100%;
 }
 
-#fudgelist {
-    color: brown;
+body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
 }
 
-#pumpkinlist {
-    color: darkorange;
+ul {
+    padding: 0px;
 }
 
-#cookielist {
-    color: aqua;
+img {
+    width: 225px;
+    height: 225px;
+    margin: 14px;
+    border: solid 2px white;
 }
+
+p {
+    margin-top: 0px;
+}
+
+a {
+    color: white;
+}
+
+.headerdiv {
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#header {
+    margin-left: 40px;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    -webkit-text-stroke: 0.5px white;
+}
+
+.listdiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 30px;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.chickendiv, .piediv, .cookiediv{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 0;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+
