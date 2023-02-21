@@ -54,7 +54,7 @@ a {
     gap: 8px;
 }
 
-.chickendiv, .piediv, .cookiediv{
+.card{
     display: flex;
     flex-direction: column;
     flex-grow: 0;
@@ -63,7 +63,7 @@ a {
     border-radius: 8px;
 }
 
-.chickendiv:hover, .piediv:hover, .cookiediv:hover {
+.card:hover {
     z-index: 1;
     box-shadow: 0 8px 50px rgba(0,0,0,0.2);
     transform: scale(1.05);
