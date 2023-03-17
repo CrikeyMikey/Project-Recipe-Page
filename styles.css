@@ -39,12 +39,12 @@ a {
     align-items: center;
 }
 
+/*Adds a colored outline effect to any text it is applied to*/
 #header {
     margin-left: 40px;
     color: white;
     font-weight: bold;
     font-size: 30px;
-    /*Adds a colored outline effect to any text it is applied to*/
     -webkit-text-stroke: 0.5px gold;
 }
 
