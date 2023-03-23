@@ -1,5 +1,5 @@
 This project is a simple webpage that will have links to some recipes and have some styled texts and a couple images.
-This project will be semi-continuosly updated as I learn how to build webpages better and add different kinds of interactice elements
+This project will be semi-continuosly updated as I learn how to build webpages better and add different kinds of interactice elements, this will also include elements made available by JavaScript.
 
 This project is made by Aydan Hoover on the 8th of December, 2022.
 
