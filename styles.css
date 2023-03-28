@@ -1,4 +1,5 @@
 /* styles.css */
+/*Keep selectors that select general HTMl elements that have not been given a class or ID at the top of the list to keep it organized*/
 html {
     height: 100%;
     width: 100%;
