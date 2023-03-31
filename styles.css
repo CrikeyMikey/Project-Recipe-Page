@@ -1,6 +1,4 @@
 /* styles.css */
-/*Keep selectors that select general HTMl elements that have not been given a class or ID at the top of the list to keep it organized*/
-/*Note To Self: try to come up with better names for Div's in HTMl that are not only easier to read for yourself but for others*/
 html {
     height: 100%;
     width: 100%;
