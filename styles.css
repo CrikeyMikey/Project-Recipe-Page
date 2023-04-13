@@ -21,13 +21,13 @@ img {
     border: 2px solid gold;
 }
 
+a {
+    color: black;
+}
+
 #cardLabels {
     margin-top: 0px;
     color: goldenrod;
-}
-
-a {
-    color: black;
 }
 
 .headerdiv {
