@@ -10,15 +10,15 @@ body {
     border: 0px;
 }
 
-ul {
-    margin-left: 10px;
-}
-
 img {
     width: 225px;
     height: 225px;
     margin: 14px;
     border: 2px solid gold;
+}
+
+ul {
+    margin-left: 10px;
 }
 
 a {
